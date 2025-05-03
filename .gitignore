@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Non Disclosure
+## - Unblurred emails  
+## - Unblurred videos  
+## - Internal microClaudia endpoints
+NonDisclosure/
